@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, Pandas, BeautifulSoup, Selenium
 
+---
 
 ## Projects
 
