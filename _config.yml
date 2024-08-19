@@ -1,0 +1,15 @@
+title: Emilio Murillo
+#logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: false
+
+# Themes
+
+# default
+#theme: jekyll-theme-minimal
+
+# this one has a nice outline at the left side
+#theme: jekyll-theme-leap-day
+
+# liked this one
+theme: jekyll-theme-modernist
