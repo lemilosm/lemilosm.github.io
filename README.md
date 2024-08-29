@@ -6,7 +6,7 @@
 
 ## Projects
 
-### Webscraping: BCCR dollar exchange rate extraction
+### Webscraping ETL: BCCR dollar exchange rate extraction
 [Repo](https://github.com/lemilosm/bccr_dollar_exch_rate_hist_webscr)
 
 The Central Bank of Costa Rica website provides daily updates on USD/CRC from a page.
@@ -20,7 +20,7 @@ The objective of this project is to
 <!-- ![sample image](/assets/img/example.jpeg) -->
 
 
-### Webscraping: BCCR dollar exchange rate extraction
+### Webscraping ETL: BCCR CRC/USD exchange rate (from different costarrican entities) extraction
 [Repo](https://github.com/lemilosm/bccr_dol_exc_entities_rate_history_webscraping)
 
 This is a project closely related to the previous one where the BCCR USD/CRC info was ETL'd.
