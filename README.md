@@ -26,3 +26,7 @@ The objective of this project is to
 This is a project closely related to the previous one where the BCCR USD/CRC info was ETL'd.
 
 The objective of this project is to produce a file that contains the most up to date CRC/USD exchange rate for the diferent entities, that can later be used in other data science projects, as input data, for example as a new column, merging it to other tables/dataframes using the date index.
+
+### Tableau Visualization:  UCR salaries distributions (full list and professors only)
+
+[https://public.tableau.com/app/profile/lemilosm/viz/Salarios-UCR/Dashboard1](https://public.tableau.com/app/profile/lemilosm/viz/Salarios-UCR/Dashboard1)
