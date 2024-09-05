@@ -29,4 +29,4 @@ The objective of this project is to produce a file that contains the most up to 
 
 ### Tableau Visualization:  UCR salaries distributions (full list and professors only)
 
-[https://public.tableau.com/app/profile/lemilosm/viz/Salarios-UCR/Dashboard1](https://public.tableau.com/app/profile/lemilosm/viz/Salarios-UCR/Dashboard1)
+[https://public.tableau.com/app/profile/lemilosm/viz/Salarios-UCR/Hallazgos](https://public.tableau.com/app/profile/lemilosm/viz/Salarios-UCR/Hallazgos)
