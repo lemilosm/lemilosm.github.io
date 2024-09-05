@@ -6,6 +6,8 @@
 
 ## Projects
 
+### Next one will be about getting JSON data from public institution web API, and publish insights to a business analytics tool like Tableu
+
 ### Webscraping ETL: BCCR dollar exchange rate extraction
 [Repo](https://github.com/lemilosm/bccr_dollar_exch_rate_hist_webscr)
 
@@ -23,7 +25,7 @@ The objective of this project is to
 ### Webscraping ETL: BCCR CRC/USD exchange rate (from different costarrican entities) extraction
 [Repo](https://github.com/lemilosm/bccr_dol_exc_entities_rate_history_webscraping)
 
-This is a project closely related to the previous one where the BCCR USD/CRC info was ETL'd.
+This is a project closely related to the previous one where the BCCR USD/CRC info was ETL'd.  Difficuly increase as obtaining older data needs to be done by sending dynamic JSON data back to the ASPX/.NET page.
 
 The objective of this project is to produce a file that contains the most up to date CRC/USD exchange rate for the diferent entities, that can later be used in other data science projects, as input data, for example as a new column, merging it to other tables/dataframes using the date index.
 
