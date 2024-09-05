@@ -20,7 +20,7 @@ The objective of this project is to
 (L) Backup the dataframe to a a file that contains the most up to date CRC/USD exchange rate, that can later be used in other data science projects, as input data, for example as a new column, merging it to other tables/dataframes using the date index.
 
 <!-- ![sample image](/assets/img/example.jpeg) -->
-
+<img src="/assets/bccr_usd-crc_history.png" alt="plot-usd-crc" width="450" >
 
 ### Webscraping ETL: BCCR CRC/USD exchange rate (from different costarrican entities) extraction
 [Repo](https://github.com/lemilosm/bccr_dol_exc_entities_rate_history_webscraping)
